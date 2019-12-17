@@ -1,0 +1,80 @@
+.border-grey {
+  border: 1px solid #eeeeee;
+}
+.border-grey-imp {
+  border: 1px solid #eeeeee !important;
+}
+.border-grey-bcg {
+  border: 1px solid #eeeeee;
+}
+.border-orange {
+  border: 1px solid #fbb216;
+}
+.border-green {
+  border: 1px solid #1fbbbb;
+  border-radius: 4px;
+}
+.border-input--green {
+  border: 1px solid #c3f0f0;
+  border-radius: 4px;
+}
+.border--steps-red {
+  border: 1px solid #bd202e;
+}
+.border--steps-red-imp {
+  border: 1px solid #bd202e !important;
+}
+.border--left-grey {
+  border-left: 1px solid #eeeeee;
+}
+.border--left-active-tab-orange {
+  border-left: 3px solid #fbb216 !important;
+}
+.border--left-blue-light {
+  border-left: 1px solid #c3f0f0;
+}
+.border--right-grey {
+  border-right: 1px solid #eeeeee;
+}
+.border--right-grey-lt {
+  border-right: 1px solid #f5f5f5;
+}
+.border--right-blue-light {
+  border-right: 1px solid #c3f0f0;
+}
+.border--right-green {
+  border-right: 1px solid #c3f0f0;
+}
+.border--top-grey {
+  border-top: 1px solid #eeeeee;
+}
+.border--top-blue-light {
+  border-top: 1px solid #c3f0f0;
+}
+.border--bottom-grey-light {
+  border-bottom: 1px solid #e4e4e4;
+}
+.border--bottom-grey {
+  border-bottom: 1px solid #eeeeee;
+}
+.border--bottom-grey-lt {
+  border-bottom: 1px solid #f5f5f5;
+}
+.border--bottom-green {
+  border-bottom: 1px solid #c3f0f0;
+}
+.border--bottom-blue-light {
+  border-bottom: 1px solid #c3f0f0;
+}
+.border--bottom-orange {
+  border-bottom: 1px solid #fbb216;
+}
+.border--bottom-white {
+  border-bottom: 1px solid #fff;
+}
+.border--error {
+  border: 1px solid #bd202e !important;
+}
+.border-radius--5 {
+  border-radius: 5px;
+}

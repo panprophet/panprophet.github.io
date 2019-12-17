@@ -1,0 +1,48 @@
+.button-small-xxs {
+  width: 6.25rem;
+  height: 1.875rem;
+  border-radius: 4px;
+}
+.button-small-xs {
+  width: 7.5rem;
+  height: 1.875rem;
+  border-radius: 4px;
+}
+.button-small-s {
+  width: 7.5rem;
+  height: 2.25rem;
+  border-radius: 4px;
+}
+.button-midd {
+  width: 8.125rem;
+  height: 1.875rem;
+}
+.button-disabled {
+  pointer-events: none;
+}
+.button-active {
+  background-color: #1fbbbb;
+  border: 1px solid #1fbbbb;
+  color: #ffffff;
+}
+.button-connect {
+  width: 5.063rem;
+  height: 1.438rem;
+  border: 1px solid #f5a623;
+  border-radius: 4px;
+}
+.close {
+  height: 1.25rem;
+  width: 1.25rem;
+  background-color: #efefef;
+}
+.feedback-cta {
+  width: 5.063rem;
+  height: 1.438rem;
+  border-radius: 4px;
+  min-width: 5.063rem;
+  max-width: 15.6875rem;
+}
+.button-disabled {
+  pointer-events: none;
+}
