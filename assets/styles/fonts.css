@@ -123,6 +123,9 @@
 .font-grey--light {
   color: #e4e4e4;
 }
+.font-grey--light-imp {
+  color: #e4e4e4 !important;
+}
 .font-blue {
   color: #09165d;
 }
