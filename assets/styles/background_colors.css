@@ -7,6 +7,9 @@
 .background-grey-light {
   background-color: #fcfcfc;
 }
+.background-grey-imp {
+  background-color: #f7f7f7 !important;
+}
 .background-grey-bcg {
   background-color: #eeeeee;
 }
