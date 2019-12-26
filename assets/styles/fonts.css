@@ -170,6 +170,12 @@
   overflow: hidden;
   text-overflow: ellipsis;
 }
+.word-break--all {
+  word-break: break-all;
+}
+.word-break--word {
+  word-wrap: break-word;
+}
 .font--menu {
   opacity: 0.4;
 }
