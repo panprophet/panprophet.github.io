@@ -660,6 +660,29 @@
     padding-right: 3.75rem;
   }
 }
+@media screen and (max-width: 1280px) {
+  .margin-m--left-20 {
+    margin-left: 1.25rem;
+  }
+  .margin-m--right-32 {
+    margin-right: 2rem;
+  }
+  .margin-m--right-10 {
+    margin-right: 0.625rem;
+  }
+  .padding-m--left-10 {
+    padding-left: 0.625rem;
+  }
+  .padding-m--left-none {
+    padding-left: 0px;
+  }
+  .padding-m--right-10 {
+    padding-right: 0.625rem;
+  }
+  .padding-m--right-none {
+    padding-right: 0px;
+  }
+}
 @media only screen and (max-width: 1024px) {
   .margin--1024-top-30 {
     margin-top: 1.875rem;
