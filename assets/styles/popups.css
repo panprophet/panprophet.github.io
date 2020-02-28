@@ -1,0 +1,92 @@
+.action-popup {
+  position: absolute;
+  width: 10rem;
+  background-color: #ffffff;
+  box-shadow: 5px 20px 30px 0 #e9e9e9;
+  z-index: 6666666;
+  border-radius: 4px;
+}
+.action-popup--tail1 {
+  position: absolute;
+  top: -18px;
+  left: 7.813rem;
+  width: 0;
+  height: 0;
+  border-color: transparent transparent #d2d8e3 transparent;
+  box-shadow: 5px 20px 30px 0 #e9e9e9;
+  border-width: 9px;
+  border-style: solid;
+}
+.action-popup--tail2 {
+  position: absolute;
+  top: -16px;
+  left: 7.813rem;
+  width: 0;
+  height: 0;
+  border-color: transparent transparent #FFFFFF transparent;
+  border-width: 9px;
+  border-style: solid;
+}
+.popup-small {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100vh;
+  background: rgba(255, 255, 255, 0.8);
+  z-index: 3000;
+}
+.popup-small--container {
+  width: 27.6875rem;
+  height: 80%;
+  border-radius: 4px;
+  box-shadow: 5px 20px 30px 0 #e9e9e9;
+}
+.popup-small--container-title {
+  height: 4.1875rem;
+}
+.popup-small--container-input {
+  width: 23.75rem;
+}
+.popup-small--container-input input {
+  width: inherit;
+}
+.popup-small--container-input--meeting {
+  width: 30rem;
+}
+.popup-small--container-input--meeting input {
+  width: inherit;
+}
+.popup-small--container-form {
+  height: 20rem;
+}
+.popup-small--container-description {
+  width: 23.75rem;
+  height: 14.75rem;
+}
+.popup-small--container-description textarea {
+  height: inherit;
+  width: inherit;
+}
+.popup-small--container-buttons {
+  height: 4.4375rem;
+}
+.popup-small--container-buttons div {
+  height: 100%;
+}
+.popup-small--container-buttons--save {
+  padding: 0 4.5rem;
+}
+.popup-small--container-buttons--save:hover {
+  opacity: 0.5;
+}
+.popup-small--container-buttons--cancel {
+  padding: 0 4.5rem;
+}
+.popup-small--container-buttons--cancel:hover {
+  opacity: 0.5;
+}
+.popup-meeting {
+  width: 35.375rem;
+}
